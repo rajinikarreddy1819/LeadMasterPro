@@ -88,7 +88,8 @@ Below are the key screens of the **LeadMasterPro** application:
 - Visual representation of lead statuses in a Kanban board.
 - Draggable lead cards for easy updates and management.
 
-  ![Mana](https://github.com/user-attachments/assets/69446c78-40c7-4350-8de2-410e4e300c19)
+![Mana](https://github.com/user-attachments/assets/86a25f4d-0022-416c-b854-fe20d8a35ef5)
+
 
 
 ### 4. **Lead Details**
